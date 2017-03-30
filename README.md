@@ -25,7 +25,7 @@
     预付费3元,字典精简去重,除无效Key,根据国人加密规律特制.  
 
 ###  :moneybag: 捐助me
-以群微薄之力，让MY更美好！  
+以君微薄之力，让MY更美好！  
 <img src="http://www.hdwiki.net/uploads/weixindonate.png" width="300" height="329">
 <img src="http://www.hdwiki.net/uploads/taobaodonate.png" width="329" height="329">
 
@@ -43,3 +43,4 @@
 ### ☑ TODO
 - [X] 添加字典简述  
 - [ ] 各地区手机号字典整理   
+- [ ] 站点log待添加   
