@@ -2,7 +2,7 @@
 本站是利用Zend Framework框架编写的轻量级MM解密类站点.诚信是我们的宗旨,免费是我们的服务( :pray:,Sorry,但局限于基础字典内).交流群:188694205
 
 ###  :two_men_holding_hands: 新手指南
-为了防止spambot,目前进驻网站提交申请是需要注册的,注册地址是 :point_right:[点我注册](http://www.hdwiki.net/hack/users/register)  
+为了防止spambot,目前进驻网站提交申请是需要注册并进行邮箱验证登录,注册地址是 :point_right:[点我注册](http://www.hdwiki.net/hack/users/register)  
 
 #### 具体流程:  
 
@@ -31,8 +31,13 @@
 
 # 变更日志 
 
-### 增加  
-#### 网站初建完成,版本:[1.0-beta] - 2017-03-30
+#### *2017-03-30 增加*  
+> 网站初建完成,版本:[1.0-beta] - 2017-03-30  
+> ~~细化地区分类,实现手机号字典规则.~~  
+> ~~处理过程及结果自动Email发送提醒.~~  
+
+> 待完善  
+> cap文件自动转换为hccap并自动导入hashcat队列,实现无人值守.
 
 <!-- change it for later
 ### Fixed
@@ -43,4 +48,5 @@
 ### ☑ TODO
 - [X] 添加字典简述  
 - [ ] 各地区手机号字典整理   
-- [ ] 站点log待添加   
+- [ ] 站点logo待添加   
+- [ ] wifi4库采集代码编写   
